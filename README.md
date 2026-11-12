@@ -4,6 +4,8 @@ This is the tracks I play on my pre-streams and breaks: https://tsoding.github.i
 
 ## Tracks
 
+There are currently **275** tracks in the playlist.
+
 |Thumbnail|Title|
 |---|---|
 |![thumbnail](images/dc6d754922e632d6.png)|[sushi - Intermission](https://www.youtube.com/@ThoughtExercise)|
@@ -283,3 +285,4 @@ This is the tracks I play on my pre-streams and breaks: https://tsoding.github.i
 |![thumbnail](images/dea0881517a0abb0.png)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
+Updated at **12 November 2026, 18:00:09 UTC**.
