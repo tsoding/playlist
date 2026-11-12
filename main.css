@@ -3,7 +3,7 @@
     src: url(Iosevka-Regular.ttf);
 }
 body {
-    font-family: Iosevka;
+    font-family: Iosevka, monospace;
     width: 480px;
     /*width: 960px;*/
     margin: auto;
