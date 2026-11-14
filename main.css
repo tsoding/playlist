@@ -1,9 +1,4 @@
-@font-face {
-    font-family: Iosevka;
-    src: url(Iosevka-Regular.ttf);
-}
 body {
-    font-family: Iosevka;
     width: 480px;
     margin: auto;
     background: #141414ff;
