@@ -6,7 +6,7 @@ Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get n
 
 ## Tracks
 
-There are currently **275** tracks in the playlist.
+There are currently **276** tracks in the playlist.
 
 |Thumbnail|Title|
 |---|---|
@@ -261,6 +261,7 @@ There are currently **275** tracks in the playlist.
 |[![thumbnail](images/5f49a8539ac6df04.png)](https://rei8bit.bandcamp.com/track/valley-for-creative)|[Rei8bit - Valley for Creative](https://rei8bit.bandcamp.com/track/valley-for-creative)|
 |[![thumbnail](images/7bdc0cddd4403419.png)](https://rei8bit.bandcamp.com/track/there-is-no-phantom)|[Rei8bit - there is no phantom](https://rei8bit.bandcamp.com/track/there-is-no-phantom)|
 |[![thumbnail](images/d7aca9d4eb2b4d47.png)](https://rei8bit.bandcamp.com/track/envisions)|[Rei8bit - envisions](https://rei8bit.bandcamp.com/track/envisions)|
+|[![thumbnail](images/e115613ba824d369.png)](https://h-mister.bandcamp.com/track/cosmic-flare)|[H-Mister - Cosmic Flare](https://h-mister.bandcamp.com/track/cosmic-flare)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/cant-stop-me)|[nu11 - Can't Stop Me](https://nu11.bandcamp.com/track/cant-stop-me)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|[nu11 - Hyper Ultra Overdrive](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|[nu11 - Burning Hot in Freezing Cold](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|
@@ -287,4 +288,4 @@ There are currently **275** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **15 November 2026, 19:48:22 UTC**.
+Updated at **15 November 2026, 23:46:57 UTC**.
