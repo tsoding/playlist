@@ -2,6 +2,8 @@
 
 This is the tracks I play on my pre-streams and breaks: https://tsoding.github.io/playlist/
 
+Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get notified about any new tracks being added!
+
 ## Tracks
 
 There are currently **275** tracks in the playlist.
@@ -285,4 +287,4 @@ There are currently **275** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **14 November 2026, 19:34:35 UTC**.
+Updated at **15 November 2026, 19:48:22 UTC**.
