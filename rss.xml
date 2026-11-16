@@ -6,6 +6,16 @@
     <language>en</language>
     <generator>Sowon2</generator>
     <item>
+      <title>RSS feed added!</title>
+      <link>https://tsoding.github.io/playlist</link>
+      <description><![CDATA[<p>You can now subscribe to the playlist to get notified when new tracks are added!</p>
+
+<p>I personally use <a href="https://newsboat.org/">Newsboat</a> RSS client because I am a nerd like that. But I've heard there are more user-friendly RSS clients out there. Let me know if you find a good one!</p>
+]]></description>
+      <pubDate>Mon, 16 Nov 2026 01:15:51 +0700</pubDate>
+      <guid>https://tsoding.github.io/playlist/event/20261115-181551.json</guid>
+    </item>
+    <item>
       <title>New Track! H-Mister - Cosmic Flare.</title>
       <link>https://tsoding.github.io/playlist</link>
       <description><![CDATA[<p>Testing out the new RSS feed here comes our first new track by Mr H-Mister released literally 5 hours ago!</p>
@@ -19,16 +29,6 @@
 ]]></description>
       <pubDate>Mon, 16 Nov 2026 06:46:47 +0700</pubDate>
       <guid>https://tsoding.github.io/playlist/event/20261115-234647.json</guid>
-    </item>
-    <item>
-      <title>RSS feed added!</title>
-      <link>https://tsoding.github.io/playlist</link>
-      <description><![CDATA[<p>You can now subscribe to the playlist to get notified when new tracks are added!</p>
-
-<p>I personally use <a href="https://newsboat.org/">Newsboat</a> RSS client because I am a nerd like that. But I've heard there are more user-friendly RSS clients out there. Let me know if you find a good one!</p>
-]]></description>
-      <pubDate>Mon, 16 Nov 2026 01:15:51 +0700</pubDate>
-      <guid>https://tsoding.github.io/playlist/event/20261115-181551.json</guid>
     </item>
 
   </channel>
