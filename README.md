@@ -6,7 +6,7 @@ Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get n
 
 ## Tracks
 
-There are currently **276** tracks in the playlist.
+There are currently **281** tracks in the playlist.
 
 |Thumbnail|Title|
 |---|---|
@@ -262,6 +262,11 @@ There are currently **276** tracks in the playlist.
 |[![thumbnail](images/7bdc0cddd4403419.png)](https://rei8bit.bandcamp.com/track/there-is-no-phantom)|[Rei8bit - there is no phantom](https://rei8bit.bandcamp.com/track/there-is-no-phantom)|
 |[![thumbnail](images/d7aca9d4eb2b4d47.png)](https://rei8bit.bandcamp.com/track/envisions)|[Rei8bit - envisions](https://rei8bit.bandcamp.com/track/envisions)|
 |[![thumbnail](images/e115613ba824d369.png)](https://h-mister.bandcamp.com/track/cosmic-flare)|[H-Mister - Cosmic Flare](https://h-mister.bandcamp.com/track/cosmic-flare)|
+|[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/crumb-city)|[pedipanol - Starboy Adventures - Crumb City](https://pedipanol.bandcamp.com/track/crumb-city)|
+|[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/ray-cat-fight)|[pedipanol - Starboy Adventures - Ray Cat Fight](https://pedipanol.bandcamp.com/track/ray-cat-fight)|
+|[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/froggit-forest)|[pedipanol - Starboy Adventures - Froggit Forest](https://pedipanol.bandcamp.com/track/froggit-forest)|
+|[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/dark-woods)|[pedipanol - Starboy Adventures - Dark Woods](https://pedipanol.bandcamp.com/track/dark-woods)|
+|[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/super-red-pigeon-fight)|[pedipanol - Starboy Adventures - Super Red Pigeon Fight](https://pedipanol.bandcamp.com/track/super-red-pigeon-fight)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/cant-stop-me)|[nu11 - Can't Stop Me](https://nu11.bandcamp.com/track/cant-stop-me)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|[nu11 - Hyper Ultra Overdrive](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|[nu11 - Burning Hot in Freezing Cold](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|
@@ -288,4 +293,4 @@ There are currently **276** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **16 November 2026, 00:02:58 UTC**.
+Updated at **16 November 2026, 23:00:24 UTC**.
