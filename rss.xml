@@ -16,7 +16,7 @@
       <guid>https://tsoding.github.io/playlist/event/20261115-181551.json</guid>
     </item>
     <item>
-      <title>New Track! H-Mister - Cosmic Flare.</title>
+      <title>[New Track] H-Mister - Cosmic Flare.</title>
       <link>https://tsoding.github.io/playlist</link>
       <description><![CDATA[<p>Testing out the new RSS feed here comes our first new track by Mr H-Mister released literally 5 hours ago!</p>
 
@@ -31,7 +31,7 @@
       <guid>https://tsoding.github.io/playlist/event/20261115-234647.json</guid>
     </item>
     <item>
-      <title>New Tracks! pedipanol - Starboy Adventures Original Soundtrack</title>
+      <title>[New Tracks] pedipanol - Starboy Adventures Original Soundtrack</title>
       <link>https://pedipanol.bandcamp.com/album/starboy-adventures-original-soundtrack</link>
       <description><![CDATA[<p>Very cool new artist on the playlist <a href="https://pedipanol.bandcamp.com/">pedipanol</a>! I've got a permission to play the entire discography, so expect more tracks from her in the future.</p>
 
@@ -80,6 +80,55 @@
 ]]></description>
       <pubDate>Tue, 17 Nov 2026 06:00:06 +0700</pubDate>
       <guid>https://tsoding.github.io/playlist/event/20261116-230006.json</guid>
+    </item>
+    <item>
+      <title>[New Tracks] Shobonwave ~Vol.1: Dream Concepts~</title>
+      <link>https://beatshobon.bandcamp.com/album/shobonwave-vol-1-dream-concepts</link>
+      <description><![CDATA[<p>More tracks from the legendary <a href="https://beatshobon.bandcamp.com/">beat_shobon</a>! This is an album from almost 10 years ago, but it has some bangers.</p><table>
+  <tr>
+    <td>
+      <img src="https://tsoding.github.io/playlist/images/7d02398833e7521f.png" />
+    </td>
+    <td>
+      <a href="https://beatshobon.bandcamp.com/track/remains-of-a-bright-city">beat_shobon - Remains of A Bright City</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://tsoding.github.io/playlist/images/7d02398833e7521f.png" />
+    </td>
+    <td>
+      <a href="https://beatshobon.bandcamp.com/track/mission-kaleidoscape">beat_shobon - Mission: Kaleidoscape</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://tsoding.github.io/playlist/images/7d02398833e7521f.png" />
+    </td>
+    <td>
+      <a href="https://beatshobon.bandcamp.com/track/unknown-enemy">beat_shobon - Unknown Enemy</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://tsoding.github.io/playlist/images/7d02398833e7521f.png" />
+    </td>
+    <td>
+      <a href="https://beatshobon.bandcamp.com/track/happy-fighting-girl">beat_shobon - Happy, Fighting Girl</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://tsoding.github.io/playlist/images/7d02398833e7521f.png" />
+    </td>
+    <td>
+      <a href="https://beatshobon.bandcamp.com/track/horse-emoji">beat_shobon - horse emoji</a>
+    </td>
+  </tr>
+</table>
+]]></description>
+      <pubDate>Wed, 18 Nov 2026 01:36:43 +0700</pubDate>
+      <guid>https://tsoding.github.io/playlist/event/20261117-183643.json</guid>
     </item>
 
   </channel>

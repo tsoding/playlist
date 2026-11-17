@@ -6,7 +6,7 @@ Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get n
 
 ## Tracks
 
-There are currently **281** tracks in the playlist.
+There are currently **286** tracks in the playlist.
 
 |Thumbnail|Title|
 |---|---|
@@ -267,6 +267,11 @@ There are currently **281** tracks in the playlist.
 |[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/froggit-forest)|[pedipanol - Starboy Adventures - Froggit Forest](https://pedipanol.bandcamp.com/track/froggit-forest)|
 |[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/dark-woods)|[pedipanol - Starboy Adventures - Dark Woods](https://pedipanol.bandcamp.com/track/dark-woods)|
 |[![thumbnail](images/43c4d8c333c47c5e.png)](https://pedipanol.bandcamp.com/track/super-red-pigeon-fight)|[pedipanol - Starboy Adventures - Super Red Pigeon Fight](https://pedipanol.bandcamp.com/track/super-red-pigeon-fight)|
+|[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/remains-of-a-bright-city)|[beat_shobon - Remains of A Bright City](https://beatshobon.bandcamp.com/track/remains-of-a-bright-city)|
+|[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/mission-kaleidoscape)|[beat_shobon - Mission: Kaleidoscape](https://beatshobon.bandcamp.com/track/mission-kaleidoscape)|
+|[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/unknown-enemy)|[beat_shobon - Unknown Enemy](https://beatshobon.bandcamp.com/track/unknown-enemy)|
+|[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/happy-fighting-girl)|[beat_shobon - Happy, Fighting Girl](https://beatshobon.bandcamp.com/track/happy-fighting-girl)|
+|[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/horse-emoji)|[beat_shobon - horse emoji](https://beatshobon.bandcamp.com/track/horse-emoji)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/cant-stop-me)|[nu11 - Can't Stop Me](https://nu11.bandcamp.com/track/cant-stop-me)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|[nu11 - Hyper Ultra Overdrive](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|[nu11 - Burning Hot in Freezing Cold](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|
@@ -293,4 +298,4 @@ There are currently **281** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **16 November 2026, 23:00:24 UTC**.
+Updated at **17 November 2026, 18:58:12 UTC**.
