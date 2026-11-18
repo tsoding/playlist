@@ -6,7 +6,7 @@ Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get n
 
 ## Tracks
 
-There are currently **286** tracks in the playlist.
+There are currently **294** tracks in the playlist.
 
 |Thumbnail|Title|
 |---|---|
@@ -272,6 +272,14 @@ There are currently **286** tracks in the playlist.
 |[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/unknown-enemy)|[beat_shobon - Unknown Enemy](https://beatshobon.bandcamp.com/track/unknown-enemy)|
 |[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/happy-fighting-girl)|[beat_shobon - Happy, Fighting Girl](https://beatshobon.bandcamp.com/track/happy-fighting-girl)|
 |[![thumbnail](images/7d02398833e7521f.png)](https://beatshobon.bandcamp.com/track/horse-emoji)|[beat_shobon - horse emoji](https://beatshobon.bandcamp.com/track/horse-emoji)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/chicken-title)|[pedipanol - Super Chicken Jumper - Chicken (Title)](https://pedipanol.bandcamp.com/track/chicken-title)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/president)|[pedipanol - Super Chicken Jumper - President](https://pedipanol.bandcamp.com/track/president)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/olivia-farm)|[pedipanol - Super Chicken Jumper - Olivia (Farm)](https://pedipanol.bandcamp.com/track/olivia-farm)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/mia-forest)|[pedipanol - Super Chicken Jumper - Mia (Forest)](https://pedipanol.bandcamp.com/track/mia-forest)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/alice-snow)|[pedipanol - Super Chicken Jumper - Alice (Snow)](https://pedipanol.bandcamp.com/track/alice-snow)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/ariel-space)|[pedipanol - Super Chicken Jumper - Ariel (Space)](https://pedipanol.bandcamp.com/track/ariel-space)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/yuko-graveyard)|[pedipanol - Super Chicken Jumper - Yuko (Graveyard)](https://pedipanol.bandcamp.com/track/yuko-graveyard)|
+|[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/mother-lava)|[pedipanol - Super Chicken Jumper - Mother (Lava)](https://pedipanol.bandcamp.com/track/mother-lava)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/cant-stop-me)|[nu11 - Can't Stop Me](https://nu11.bandcamp.com/track/cant-stop-me)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|[nu11 - Hyper Ultra Overdrive](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|[nu11 - Burning Hot in Freezing Cold](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|
@@ -298,4 +306,4 @@ There are currently **286** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **17 November 2026, 18:58:12 UTC**.
+Updated at **18 November 2026, 17:17:46 UTC**.
