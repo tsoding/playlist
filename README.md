@@ -6,7 +6,7 @@ Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get n
 
 ## Tracks
 
-There are currently **294** tracks in the playlist.
+There are currently **298** tracks in the playlist.
 
 |Thumbnail|Title|
 |---|---|
@@ -280,6 +280,10 @@ There are currently **294** tracks in the playlist.
 |[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/ariel-space)|[pedipanol - Super Chicken Jumper - Ariel (Space)](https://pedipanol.bandcamp.com/track/ariel-space)|
 |[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/yuko-graveyard)|[pedipanol - Super Chicken Jumper - Yuko (Graveyard)](https://pedipanol.bandcamp.com/track/yuko-graveyard)|
 |[![thumbnail](images/a5cdbc40dd7832da.png)](https://pedipanol.bandcamp.com/track/mother-lava)|[pedipanol - Super Chicken Jumper - Mother (Lava)](https://pedipanol.bandcamp.com/track/mother-lava)|
+|[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/unpredictable-action)|[beat_shobon - Unpredictable Action](https://beatshobon.bandcamp.com/track/unpredictable-action)|
+|[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/125bpm)|[beat_shobon - 125bpm](https://beatshobon.bandcamp.com/track/125bpm)|
+|[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/okinawan-donut)|[beat_shobon - Okinawan Donut](https://beatshobon.bandcamp.com/track/okinawan-donut)|
+|[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/theres-still-much-to-learn)|[beat_shobon - There's still much to learn](https://beatshobon.bandcamp.com/track/theres-still-much-to-learn)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/cant-stop-me)|[nu11 - Can't Stop Me](https://nu11.bandcamp.com/track/cant-stop-me)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|[nu11 - Hyper Ultra Overdrive](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|[nu11 - Burning Hot in Freezing Cold](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|
@@ -306,4 +310,4 @@ There are currently **294** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **19 November 2026, 15:28:56 UTC**.
+Updated at **19 November 2026, 15:47:05 UTC**.
