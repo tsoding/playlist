@@ -6,7 +6,7 @@ Subscribe to the [RSS feed](https://tsoding.github.io/playlist/rss.xml) to get n
 
 ## Tracks
 
-There are currently **298** tracks in the playlist.
+There are currently **301** tracks in the playlist.
 
 |Thumbnail|Title|
 |---|---|
@@ -284,6 +284,9 @@ There are currently **298** tracks in the playlist.
 |[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/125bpm)|[beat_shobon - 125bpm](https://beatshobon.bandcamp.com/track/125bpm)|
 |[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/okinawan-donut)|[beat_shobon - Okinawan Donut](https://beatshobon.bandcamp.com/track/okinawan-donut)|
 |[![thumbnail](images/7cf66b7719cb9e45.png)](https://beatshobon.bandcamp.com/track/theres-still-much-to-learn)|[beat_shobon - There's still much to learn](https://beatshobon.bandcamp.com/track/theres-still-much-to-learn)|
+|[![thumbnail](images/795be991ada549c5.png)](https://omnicorum.bandcamp.com/track/drifter)|[Omnicorum - Drifter](https://omnicorum.bandcamp.com/track/drifter)|
+|[![thumbnail](images/795be991ada549c5.png)](https://omnicorum.bandcamp.com/track/ocean-spray)|[Omnicorum - Ocean Spray](https://omnicorum.bandcamp.com/track/ocean-spray)|
+|[![thumbnail](images/795be991ada549c5.png)](https://omnicorum.bandcamp.com/track/late-night-arcade-2026)|[Omnicorum - Late Night Arcade 2026](https://omnicorum.bandcamp.com/track/late-night-arcade-2026)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/cant-stop-me)|[nu11 - Can't Stop Me](https://nu11.bandcamp.com/track/cant-stop-me)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|[nu11 - Hyper Ultra Overdrive](https://nu11.bandcamp.com/track/hyper-ultra-overdrive)|
 |[![thumbnail](images/055430e91302b269.png)](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|[nu11 - Burning Hot in Freezing Cold](https://nu11.bandcamp.com/track/burning-hot-in-freezing-cold)|
@@ -310,4 +313,4 @@ There are currently **298** tracks in the playlist.
 |[![thumbnail](images/dea0881517a0abb0.png)](https://pilotredsun.bandcamp.com/track/thanks)|[pilotredsun - thanks](https://pilotredsun.bandcamp.com/track/thanks)|
 
 
-Updated at **19 November 2026, 15:47:05 UTC**.
+Updated at **22 November 2026, 22:14:05 UTC**.
